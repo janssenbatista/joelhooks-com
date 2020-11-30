@@ -59,7 +59,7 @@ News](https://news.ycombinator.com/item?id=5597939). NERDTree **is** big, and
 you might have better luck with `netrw` as suggested. I plan on digging in to
 `:h netrw` to see if I can drop NERDTree off this list of (my) essentials.
 
-##ctrlp
+## ctrlp
 
 > Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
 
